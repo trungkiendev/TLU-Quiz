@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.between{
+    margin-top:0.5rem;
+    margin-bottom:8.8rem;
+}
+.title div{
+    background-color: #56a4fe;
+    height: 88px;
+    line-height: 88px;
+    color:black;
+    font-weight: bold;
+    font-size:18px;
+    padding: 0 1em;
+}
+.login button{
+    color:rgb(233, 212, 212);
+}
+.search{
+    margin-top:10px;
+}
+.MenuLeft{
+    padding-left:200px;
+}
+.MenuLeft .title-left li{
+    display: inline-table;
+    width: 100px;    
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+.MenuLeft .title-left li a{
+    text-decoration: underline;
+    color:black;
+    font-weight: bold;
+}
+.MenuLeft .title-left li a:hover{
+    color:#56a4fe;
+}
+.Menu ul{
+   padding: 0;
+   list-style-type: none;
+}
+.Menu ul li{
+    width: auto;
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 1em;
+}
+.Menu .sub-menu .list_dangkyhoc{
+    background-color: white;
+}
+.Menu .sub-menu{
+    height: 189px;
+    display: hide;
+}
+.Menu .sub-menu li{
+    height: 35px;
+    line-height: 35px;
+}
+.Menu .sub-menu li a{
+    display: block;
+}
+.Menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    color: #444;
+}
+.Menu ul li:hover{
+    background-color: #0066cc;
+}
+.content{
+    background-color:white;
+    height: auto;
+    line-height: 50px;
+    font-weight: bold;
+    font-size:15px;
+    padding: 0 1em;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    background-color: rgb(145, 140, 140);
+}
+.footer div {
+    text-align: center;
+    line-height: 100px;
+}
